@@ -1,5 +1,13 @@
 # SNOW
 
+| **Mug into microwave** | **Moka pots on stove** |
+| --- | --- |
+| [![Put the yellow and white mug in the microwave and close it](outputs/previews/kitchen_scene6.gif)](outputs/KITCHEN_SCENE6_put_the_yellow_and_white_mug_in_the_microwave_and_close_it_ac8.mp4) | [![Put both moka pots on the stove](outputs/previews/kitchen_scene8.gif)](outputs/KITCHEN_SCENE8_put_both_moka_pots_on_the_stove_ac8.mp4) |
+| **Soup and sauce into basket** | **Mug and pudding arrangement** |
+| [![Put both the alphabet soup and the tomato sauce in the basket](outputs/previews/living_room_scene2.gif)](outputs/LIVING_ROOM_SCENE2_put_both_the_alphabet_soup_and_the_tomato_sauce_in_the_basket_ac8.mp4) | [![Put the white mug on the plate and put the chocolate pudding to the right of the plate](outputs/previews/living_room_scene6.gif)](outputs/LIVING_ROOM_SCENE6_put_the_white_mug_on_the_plate_and_put_the_chocolate_pudding_to_the_right_of_the_plate_ac8.mp4) |
+
+*LIBERO simulation rollouts. Click any animated preview to watch the original MP4.*
+
 ## Overview
 
 SNOW is an experimental vision-language-action (VLA) project for robotic manipulation and motion learning. This repository includes training and inference code, dataset processing utilities, and simulation demos, with experiments on LIBERO, ACCAD, and BMLmovi.
@@ -16,17 +24,6 @@ Best recorded success rates for each LIBERO suite:
 | LIBERO-Spatial | 195 / 200 | **97.50%** | 2026-02-09 |
 
 These results come from experiments on different dates. Training records and earlier evaluation results are listed in the [experiment log](#experiment-log).
-
-## Video Demos
-
-Selected LIBERO simulation rollouts. Click **Watch video** to open each demo.
-
-| Scene | Task | Demo |
-| --- | --- | --- |
-| Kitchen 6 | Put the yellow and white mug in the microwave and close it. | [Watch video](https://github.com/garlic-byte/SNOW/blob/main/outputs/KITCHEN_SCENE6_put_the_yellow_and_white_mug_in_the_microwave_and_close_it_ac8.mp4) |
-| Kitchen 8 | Put both moka pots on the stove. | [Watch video](https://github.com/garlic-byte/SNOW/blob/main/outputs/KITCHEN_SCENE8_put_both_moka_pots_on_the_stove_ac8.mp4) |
-| Living Room 2 | Put both the alphabet soup and the tomato sauce in the basket. | [Watch video](https://github.com/garlic-byte/SNOW/blob/main/outputs/LIVING_ROOM_SCENE2_put_both_the_alphabet_soup_and_the_tomato_sauce_in_the_basket_ac8.mp4) |
-| Living Room 6 | Put the white mug on the plate and put the chocolate pudding to the right of the plate. | [Watch video](https://github.com/garlic-byte/SNOW/blob/main/outputs/LIVING_ROOM_SCENE6_put_the_white_mug_on_the_plate_and_put_the_chocolate_pudding_to_the_right_of_the_plate_ac8.mp4) |
 
 ## Experiment Log
 
