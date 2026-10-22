@@ -1,4 +1,4 @@
-# SNOW
+# Qwen-VLA
 
 | **Mug into microwave** | **Moka pots on stove** |
 | --- | --- |
@@ -10,7 +10,7 @@
 
 ## Overview
 
-SNOW is an experimental vision-language-action (VLA) project for robotic manipulation and motion learning. This repository includes training and inference code, dataset processing utilities, and simulation demos, with experiments on LIBERO, ACCAD, and BMLmovi.
+Qwen-VLA is an experimental vision-language-action (VLA) project for robotic manipulation and motion learning. This repository includes training and inference code, dataset processing utilities, and simulation demos, with experiments on LIBERO, ACCAD, and BMLmovi.
 
 ## Main Results
 
